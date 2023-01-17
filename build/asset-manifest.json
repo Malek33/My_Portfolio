@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37808622.css",
+    "main.js": "/static/js/main.550feece.js",
+    "static/media/omarpic.jpg": "/static/media/omarpic.dd3a97f594e36150ff64.jpg",
+    "static/media/Layer3.png": "/static/media/Layer3.5e2c876746cbb54e464e.png",
+    "static/media/malekpic.jpg": "/static/media/malekpic.976bddaadeff655eee26.jpg",
+    "static/media/85840.png": "/static/media/85840.e4524cc05b796239e125.png",
+    "static/media/youssefpic.jpg": "/static/media/youssefpic.7c77e29ac933d34fc6e1.jpg",
+    "static/media/analytics.png": "/static/media/analytics.23c988be24fa3da48339.png",
+    "static/media/3333_4x.jpg": "/static/media/3333_4x.f749fdfd9e8447f8d128.jpg",
+    "static/media/trade-dashboard-for-bitcoin-vector-23925371.png": "/static/media/trade-dashboard-for-bitcoin-vector-23925371.8d32fa17833c9a1e9e09.png",
+    "static/media/6.png": "/static/media/6.2235de56dda534a4c2cd.png",
+    "static/media/5.jpg": "/static/media/5.cbdde6afa7af85cb5455.jpg",
+    "static/media/4.png": "/static/media/4.9608fc483fdec1323f2b.png",
+    "static/media/pdf.pdf": "/static/media/pdf.84fc9d201e643977698f.pdf",
+    "static/media/bg-texture.png": "/static/media/bg-texture.b7950e1044a3455d7133.png",
+    "static/media/logo-portfolio.png": "/static/media/logo-portfolio.83de8fd56b97f6198aa2.png",
+    "static/media/brhnpic.jpg": "/static/media/brhnpic.78cbc590152c89420e30.jpg",
+    "index.html": "/index.html",
+    "main.37808622.css.map": "/static/css/main.37808622.css.map",
+    "main.550feece.js.map": "/static/js/main.550feece.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37808622.css",
+    "static/js/main.550feece.js"
+  ]
+}
